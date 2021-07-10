@@ -1,7 +1,5 @@
-
-<div align="center">
-<img width="100%" height = "514px" src="https://1.bp.blogspot.com/-6Ej4dbgeMrU/XmWHvdynokI/AAAAAAAAVm0/RNDW_29yPzcvUOwo5E0dQNU1YSC_gBR5gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Best%2BITZY%2BWallpaper%2BImages%2Bin%2B2020.png" alt="cover" />
-</div>
+![Ipann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangIpann&show_icons=true&theme=cobalt)
+![Ipann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&theme=cobalt&layout=compact)
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
