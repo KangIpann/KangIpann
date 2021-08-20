@@ -1,10 +1,10 @@
 <h1 align="center"> Hey yo all! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-</p>
-<div size='30px' align='center'>I'm Arialdo Rivandi Tion Saputra. Just call Me IVAN.
+<div size='60px' align='center'>I'm Arialdo Rivandi Tion Saputra. Just call Me IVAN.
 </div>
+</p>
 
+<br>
 ![Ipann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangIpann&show_icons=true&theme=cobalt)
 ![Ipann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&theme=cobalt&layout=compact)
 
