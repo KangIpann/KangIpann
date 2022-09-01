@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to who can coffe talk with me
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, HTML, CSS, Web Stuff, Stock market, PC Games.
+- 💬 Talk to me about Mobile Dev Things, Web Stuff, Stock market, PC Games.
 
 <h2> Skills  </h2>
 <a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
