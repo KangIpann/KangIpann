@@ -1,35 +1,30 @@
-<h1 align="center"> Yo Guys </h1>
-<p align='center'>
-<div size='60px' align='center'>I'm Arialdo Rivandi Tion Saputra. Just call Me IVAN.
-</div>
-</p>
+# 💫 About Me:
+🏫 I'm Telkom Malang Senior High School student<br><br>🔭 I’m currently learning on Dicoding Courses<br><br>🌱 I’m currently learning Flutter,React Native, Kotlin<br><br>👯 I’m looking for collabolator<br><br>💬 Talk to me about Mobile Dev Things, Web Stuff, Stock market, PC Games.
 
-<br>
 
-![Ipann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangIpann&show_icons=true&theme=cobalt)
-![Ipann's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&theme=cobalt&layout=compact)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kang.ipannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arialdo-rivandi-tion-saputra-873460219/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kang.ipannn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KangIpannn) 
 
-<h2> About Me </h2>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KangIpann&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KangIpann&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🏫 I'm Telkom Malang Senior High School student
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KangIpann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently learning on Niomic Course
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=KangIpannn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 🌱 I’m currently learning Python,HTML,CSS,Java Script,Java,So on
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👯 I’m looking to who can coffe talk with me
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- 💬 Talk to me about Mobile Dev Things, Web Stuff, Stock market, PC Games.
+---
+[![](https://visitcount.itsvg.in/api?id=KangIpann&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<h2> Skills  </h2>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/KangIpann?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-
-<h2> Connect with me </h2>
-<a target="_blank" href = 'https://www.twitter.com/@KangIpannn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a target="_blank" href = 'https://www.github.com/KangIpann'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a target="_blank" href = 'https://www.instagram.com/kang.ipannn/' > <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
