@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi,%20I'm%20Ivan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20·%20Builder%20·%20Communicator&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi,%20I'm%20Ivan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20%7C%20Builder%20%7C%20Communicator&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founder+%40+Joko+Coffee+%26+Eatery+☕;Public+Relations+Student+%40+BINUS+University;Building+AI-powered+trading+bots+🤖;Mobile+%26+Web+Developer+📱;Training+for+my+first+triathlon+🏊🚴🏃" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founder+%40+Joko+Coffee+%26+Eatery;Public+Relations+Student+%40+BINUS+University;Building+AI-powered+trading+bots;Mobile+%26+Web+Developer;Training+for+my+first+triathlon" alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,16 +72,21 @@ motto:       "Copy or use my code — learning is free."
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KangIpann&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KangIpann&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangIpann&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
