@@ -1,22 +1,116 @@
-# 💫 About Me:
-🏫 I'm Telkom Malang Senior High School student<br><br>🔭 I’m currently learning on Dicoding Courses<br><br>🌱 I’m currently learning Flutter,React Native, Kotlin<br><br>👯 I’m looking for collabolator<br><br>💬 Talk to me about Mobile Dev Things, Web Stuff, Stock market, PC Games.
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi,%20I'm%20Ivan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20·%20Builder%20·%20Communicator&descAlignY=58&descSize=18" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founder+%40+Joko+Coffee+%26+Eatery+☕;Public+Relations+Student+%40+BINUS+University;Building+AI-powered+trading+bots+🤖;Mobile+%26+Web+Developer+📱;Training+for+my+first+triathlon+🏊🚴🏃" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kang.ipannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arialdo-rivandi-tion-saputra-873460219/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kang.ipannn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KangIpannn) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KangIpann&style=flat-square&color=1f6feb&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/KangIpann?style=flat-square&color=8957e5&label=Followers" />
+  <img src="https://img.shields.io/badge/📍-Blitar,%20Indonesia-0d1117?style=flat-square" />
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KangIpann&theme=synthwave&hide_border=false)<br/>
+---
 
+## 🧭 About Me
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KangIpann&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+I'm **Ivan** — an entrepreneur who codes, and a developer who understands business.
 
-## 🐦 My Last Sigh
-[![](https://gtce.itsvg.in/api?username=KangIpannn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+I run **Joko Coffee & Eatery**, a Javanese–Korean fusion café in Blitar that I founded in 2022 and now lead with a team of 10. At the same time, I'm studying **Public Relations at BINUS University**, where my focus is simple: fixing miscommunication — between people, teams, and the products they use.
 
-[![](https://visitcount.itsvg.in/api?id=KangIpann&icon=0&color=12)](https://visitcount.itsvg.in)
+Code is how I turn ideas into working systems. I started with mobile development at SMK Telkom Malang, and these days I build in **Python**, experiment with **AI agents**, and ship tools that solve real problems for my own business first.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name:        Ivan (KangIpann)
+role:        [Founder, PR Student, Developer]
+business:    Joko Coffee & Eatery — est. Dec 31, 2022
+education:   BINUS University — Public Relations
+background:  SMK Telkom Malang — Software Engineering
+focus:       [AI Agents, Algorithmic Trading, Mobile Apps, Web]
+off_screen:  [Triathlon Training, Running, Cycling, PC Games]
+motto:       "Copy or use my code — learning is free."
+```
+
+---
+
+## 🚀 What I'm Working On
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI Trading Agent** | BTC/USDT futures bot on Bybit (demo) using an LLM as its decision engine, with a custom reflection & memory system | `Python` `Claude API` `Bybit API` `Telegram` |
+| 📊 **Strategy Tournament** | Backtesting system that pits 20 strategies (EMA, VWAP, etc.) against each other to find the strongest performer | `Python` `Pandas` |
+| 🏃 **Running Event Registration** | Registration platform for a running event targeting ~400 participants | `Web` `In progress` |
+| ☕ **Joko Coffee Digital** | Applying tech and PR to grow a real local F&B brand | `Business` `Branding` |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,dart,java,js,html,css&theme=dark" />
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,django,androidstudio,vscode,git,github&theme=dark" />
+</p>
+
+**Design & Content**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,pr&theme=dark" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KangIpann&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangIpann&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KangIpann&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangIpann&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 💬 Let's Talk About
+
+- 📱 Mobile & web development
+- 🤖 AI agents and automation for small businesses
+- 📉 Trading systems, backtesting, and the stock/crypto market
+- ☕ Running an F&B business as a student
+- 🗣️ Public relations, branding, and communication strategy
+- 🎮 PC games
+
+> 🤝 **Open to collaboration** — especially on projects where tech meets real-world business.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://kangipann.github.io"><img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/KangIpannn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" />
+</p>
