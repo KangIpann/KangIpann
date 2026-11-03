@@ -5,7 +5,7 @@
 | 🤖 **AI Trading Agent** | BTC/USDT futures bot on Bybit (demo) using an LLM as its decision engine, with a custom reflection & memory system | `Python` `Claude API` `Bybit API` `Telegram` |
 | 📊 **Strategy Tournament** | Backtesting system that pits 20 strategies (EMA, VWAP, etc.) against each other to find the strongest performer | `Python` `Pandas` |
 | 🏃 **Running Event Registration** | Registration platform for a running event targeting ~400 participants | `Web` `In progress` |
-| ☕ **Joko Coffee Digital** | Applying tech and PR to grow a real local F&B brand | `Business` `Branding` |
+| ☕ **Joko Coffee Digital** | Applying tech and PR to grow a real local F&B brand also im the founder | `Business` `Branding` |
 
 ---
 
